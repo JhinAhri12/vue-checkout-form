@@ -28,3 +28,4 @@ npm run dev
 npm run build
 ```
 # vue-checkout-form
+![image](https://user-images.githubusercontent.com/31922998/182575655-99bb9f9d-51f6-47f1-b98b-2503a6a184b8.png)
